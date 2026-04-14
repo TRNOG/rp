@@ -1,4 +1,4 @@
-module github.com/netplotter/netplotter
+module github.com/alptekinsunnetci/netplotter
 
 go 1.22
 
